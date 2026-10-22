@@ -1,0 +1,8 @@
+# Build folders
+bin/
+obj/
+
+# IDE settings
+/.vscode
+/.idea
+/.vs
