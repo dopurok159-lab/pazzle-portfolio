@@ -1,0 +1,6 @@
+﻿*   92f6b45 merge: resolve story conflict
+|\  
+| * f2b9f80 feat: add feature chapter
+* | d59b514 feat: add main chapter
+|/  
+* c6e23d9 feat: initial story
